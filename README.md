@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @XionNeutrino
-- 👀 I’m interested in mechanical engineering, game design, uranium enriching
-- 🌱 I’m currently learning Godot and C#
+- 👀 I’m interested in mechanical engineering and uranium enriching
 
 <!---
 XionNeutrino/XionNeutrino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
